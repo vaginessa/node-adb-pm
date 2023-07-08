@@ -15,6 +15,6 @@
     "inquirer": "^7.0.0"
   },
   "devDependencies": {
-    "pkg": "^4.4.0"
+    "pkg": "^5.8.1"
   }
 }
